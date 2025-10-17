@@ -1,0 +1,6 @@
+﻿  Chat.cpp
+D:\CPP\First_ChatApp\First_ChatApp\Chat.cpp(71,52): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+  main.cpp
+  User.cpp
+  Создание кода...
+  First_ChatApp.vcxproj -> D:\CPP\First_ChatApp\x64\Debug\First_ChatApp.exe
